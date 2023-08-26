@@ -214,6 +214,7 @@ public class Home extends javax.swing.JFrame {
     /**
      * @param args the command line arguments
      */
+//    creating main class
     public static void main(String args[]) {
         IntelliJTheme.setup(Home.class.getResourceAsStream(
                 "/themes/GitHub Dark.theme.json"));
