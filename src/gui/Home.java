@@ -13,9 +13,6 @@ public class Home extends javax.swing.JFrame {
 
     public static Vector<User> userVector = new Vector<>();
 
-    /**
-     * Creates new form Home
-     */
     public Home() {
         initComponents();
     }
